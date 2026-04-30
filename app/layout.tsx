@@ -12,8 +12,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    default: "GIFTECH",
-    template: "%s | GIFTECH",
+    default: "ACRODILE",
+    template: "%s | ACRODILE",
   },
   description:
     "Online learning platform offering coding courses, expert mentorship, and a supportive community to help you master programming skills and advance your tech career.",
@@ -28,42 +28,41 @@ export const metadata: Metadata = {
     "Developer Training",
     "Coding Tutorials",
   ],
-  authors: [{ name: "GIFTECHTeam" }],
-  creator: "GIFTECH",
-  publisher: "GIFTECH",
+  authors: [{ name: "ACRODILETeam" }],
+  creator: "ACRODILE",
+  publisher: "ACRODILE",
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://giftech.com"),
+  metadataBase: new URL("https://acrodile.com"),
   alternates: {
     canonical: "/",
   },
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://giftech.com",
-    title: "GIFTECH",
+    url: "https://acrodile.com",
+    title: "ACRODILE",
     description:
       "Online learning platform offering coding courses, expert mentorship, and a supportive community to help you master programming skills and advance your tech career.",
-    siteName: "GIFTECH",
+    siteName: "ACRODILE",
     images: [
       {
-        url: "/giftech_ico.png",
+        url: "/acrodile_ico.png",
         width: 1200,
         height: 630,
-        alt: "GIFTECH",
+        alt: "ACRODILE",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "GIFTECH",
-    description:
-      "",
-    images: ["/giftech_ico.png"],
-    creator: "@giftech",
+    title: "ACRODILE",
+    description: "",
+    images: ["/acrodile_ico.png"],
+    creator: "@acrodile",
   },
   robots: {
     index: true,
@@ -82,9 +81,9 @@ export const metadata: Metadata = {
     yahoo: "your-yahoo-verification-code",
   },
   icons: {
-    icon: "/giftech_ico.png",
-    shortcut: "/giftech_ico.png",
-    apple: "/giftech_ico.png",
+    icon: "/acrodile_ico.png",
+    shortcut: "/acrodile_ico.png",
+    apple: "/acrodile_ico.png",
   },
 };
 
@@ -160,8 +159,8 @@ export default function RootLayout({
         >
           <ClientSessionProvider>
             <AuthProvider>
-                {children}
-                <Toaster />
+              {children}
+              <Toaster />
             </AuthProvider>
           </ClientSessionProvider>
         </ThemeProvider>

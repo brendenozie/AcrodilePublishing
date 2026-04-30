@@ -466,7 +466,7 @@ export async function initializePesapal(
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
-        "User-Agent": "giftech/1.0",
+        "User-Agent": "acrodile/1.0",
       },
       body: JSON.stringify(tokenRequest),
     });
@@ -520,10 +520,10 @@ export async function initializePesapal(
       id: merchantReference,
       currency: "KES",
       amount: amount,
-      description: `GIFTECH${plan.name} Subscription`,
+      description: `ACRODILE${plan.name} Subscription`,
       callback_url: `${process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}/signals/success`,
       redirect_mode: "TOP_WINDOW",
-      branch: "GIFTECH- HQ",
+      branch: "ACRODILE- HQ",
       billing_address: {
         email_address: userEmail,
         phone_number: userPhone,

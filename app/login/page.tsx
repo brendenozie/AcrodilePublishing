@@ -138,7 +138,7 @@ export default function LoginPage() {
     try {
       const result = await signIn("google", {
         callbackUrl:
-          formData.email === "admin@giftech.com"
+          formData.email === "admin@acrodile.com"
             ? "/admin/dashboard"
             : redirectTo,
         redirect: true,
@@ -210,12 +210,12 @@ export default function LoginPage() {
           <Link href="/" className="relative h-10">
             <img
               src="/logo-light.png"
-              alt="GIFTECHLogo"
+              alt="ACRODILELogo"
               className="h-10 w-auto dark:hidden"
             />
             <img
               src="/logo-dark.png"
-              alt="GIFTECHLogo"
+              alt="ACRODILELogo"
               className="h-10 w-auto hidden dark:block"
             />
           </Link>

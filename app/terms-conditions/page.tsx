@@ -25,7 +25,7 @@ export default function TermsConditionsPage() {
               1. Agreement to Terms
             </h2>
             <p>
-              By accessing and using the GIFTECHwebsite and mobile application,
+              By accessing and using the ACRODILEwebsite and mobile application,
               you accept and agree to be bound by the terms and provision of
               this agreement. If you do not agree to abide by the above, please
               do not use this service.
@@ -37,7 +37,7 @@ export default function TermsConditionsPage() {
               2. License and Site Access
             </h2>
             <p className="mb-3">
-              GIFTECHgrants you a limited, non-exclusive, non-transferable
+              ACRODILEgrants you a limited, non-exclusive, non-transferable
               license to access and use the Site and its content, subject to the
               terms and conditions of this Agreement. This license does not
               include:
@@ -65,8 +65,8 @@ export default function TermsConditionsPage() {
               3. Disclaimer of Warranties
             </h2>
             <p>
-              THE MATERIALS ON GIFTECHWEBSITE AND MOBILE APPLICATION ARE
-              PROVIDED ON AN &quot;AS IS&quot; BASIS. GIFTECHMAKES NO
+              THE MATERIALS ON ACRODILEWEBSITE AND MOBILE APPLICATION ARE
+              PROVIDED ON AN &quot;AS IS&quot; BASIS. ACRODILEMAKES NO
               WARRANTIES, EXPRESSED OR IMPLIED, AND HEREBY DISCLAIMS AND NEGATES
               ALL OTHER WARRANTIES INCLUDING, WITHOUT LIMITATION, IMPLIED
               WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A
@@ -82,7 +82,7 @@ export default function TermsConditionsPage() {
             <p className="mb-3">
               Trading and investing involve substantial risk of loss. Past
               performance does not guarantee future results. The trading signals
-              provided by GIFTECHare educational in nature and should not be
+              provided by ACRODILEare educational in nature and should not be
               considered as financial advice.
             </p>
             <p>You acknowledge that:</p>
@@ -99,7 +99,7 @@ export default function TermsConditionsPage() {
               5. Subscription Terms
             </h2>
             <p className="mb-3">
-              GIFTECHoffers subscription plans (Weekly, Monthly, 3 Months). By
+              ACRODILEoffers subscription plans (Weekly, Monthly, 3 Months). By
               subscribing, you agree to:
             </p>
             <ul className="list-disc list-inside space-y-2">
@@ -108,7 +108,8 @@ export default function TermsConditionsPage() {
                 cancelled
               </li>
               <li>
-                Charges will appear on your payment method as &quot;GIFTECH&quot;
+                Charges will appear on your payment method as
+                &quot;ACRODILE&quot;
               </li>
               <li>
                 You can cancel your subscription at any time through your
@@ -123,10 +124,10 @@ export default function TermsConditionsPage() {
               6. Limitations of Liability
             </h2>
             <p>
-              IN NO EVENT SHALL GIFTECH, ITS DIRECTORS, EMPLOYEES, OR AGENTS
-              BE LIABLE FOR ANY DAMAGES (WHETHER DIRECT, INDIRECT, INCIDENTAL,
+              IN NO EVENT SHALL ACRODILE, ITS DIRECTORS, EMPLOYEES, OR AGENTS BE
+              LIABLE FOR ANY DAMAGES (WHETHER DIRECT, INDIRECT, INCIDENTAL,
               SPECIAL, CONSEQUENTIAL, OR PUNITIVE) ARISING OUT OF YOUR USE OR
-              INABILITY TO USE THE MATERIALS ON GIFTECH, EVEN IF GIFTECHHAS
+              INABILITY TO USE THE MATERIALS ON ACRODILE, EVEN IF ACRODILEHAS
               BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
             </p>
           </div>
@@ -158,8 +159,8 @@ export default function TermsConditionsPage() {
 
           <div className="bg-green-50 dark:bg-green-900 p-6 rounded-lg">
             <p className="text-sm">
-              By using GIFTECH, you acknowledge that you have read these
-              Terms and Conditions and agree to be bound by all of the terms and
+              By using ACRODILE, you acknowledge that you have read these Terms
+              and Conditions and agree to be bound by all of the terms and
               conditions contained herein.
             </p>
           </div>

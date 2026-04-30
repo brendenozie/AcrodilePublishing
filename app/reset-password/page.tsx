@@ -102,12 +102,12 @@ export default function ResetPasswordPage() {
             <Link href="/" className="relative h-10">
               <img
                 src="/logo-light.png"
-                alt="GIFTECHLogo"
+                alt="ACRODILELogo"
                 className="h-10 w-auto dark:hidden"
               />
               <img
                 src="/logo-dark.png"
-                alt="GIFTECHLogo"
+                alt="ACRODILELogo"
                 className="h-10 w-auto hidden dark:block"
               />
             </Link>
@@ -146,12 +146,12 @@ export default function ResetPasswordPage() {
             <Link href="/" className="relative h-10">
               <img
                 src="/logo-light.png"
-                alt="GIFTECHLogo"
+                alt="ACRODILELogo"
                 className="h-10 w-auto dark:hidden"
               />
               <img
                 src="/logo-dark.png"
-                alt="GIFTECHLogo"
+                alt="ACRODILELogo"
                 className="h-10 w-auto hidden dark:block"
               />
             </Link>
@@ -191,12 +191,12 @@ export default function ResetPasswordPage() {
           <Link href="/" className="relative h-10">
             <img
               src="/logo-light.png"
-              alt="GIFTECHLogo"
+              alt="ACRODILELogo"
               className="h-10 w-auto dark:hidden"
             />
             <img
               src="/logo-dark.png"
-              alt="GIFTECHLogo"
+              alt="ACRODILELogo"
               className="h-10 w-auto hidden dark:block"
             />
           </Link>

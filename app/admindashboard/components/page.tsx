@@ -29,7 +29,7 @@ export default function FAQsPage() {
     {
       question: "Can I use the platform on mobile?",
       answer:
-        "Yes! GIFTECHis fully mobile responsive and works seamlessly on smartphones and tablets. You can access all features and receive notifications on the go.",
+        "Yes! ACRODILEis fully mobile responsive and works seamlessly on smartphones and tablets. You can access all features and receive notifications on the go.",
     },
     {
       question: "What payment methods do you accept?",
@@ -73,7 +73,7 @@ export default function FAQsPage() {
             Frequently Asked Questions
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-400">
-            Find answers to common questions about GIFTECHand our trading
+            Find answers to common questions about ACRODILEand our trading
             signals.
           </p>
         </section>

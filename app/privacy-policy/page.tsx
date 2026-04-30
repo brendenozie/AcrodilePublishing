@@ -25,8 +25,8 @@ export default function PrivacyPolicyPage() {
               1. Introduction
             </h2>
             <p>
-              GIFTECH(&quot;we&quot;, &quot;us&quot;, &quot;our&quot;, or
-              &quot;Company&quot;) operates the GIFTECHwebsite and mobile
+              ACRODILE(&quot;we&quot;, &quot;us&quot;, &quot;our&quot;, or
+              &quot;Company&quot;) operates the ACRODILEwebsite and mobile
               application. This page informs you of our policies regarding the
               collection, use, and disclosure of personal data when you use our
               Service and the choices you have associated with that data.
@@ -59,7 +59,7 @@ export default function PrivacyPolicyPage() {
               3. Use of Data
             </h2>
             <p className="mb-3">
-              GIFTECHuses the collected data for various purposes:
+              ACRODILEuses the collected data for various purposes:
             </p>
             <ul className="list-disc list-inside space-y-2">
               <li>To provide and maintain our Service</li>
@@ -119,9 +119,9 @@ export default function PrivacyPolicyPage() {
 
           <div className="bg-green-50 dark:bg-green-900 p-6 rounded-lg">
             <p className="text-sm">
-              By using GIFTECH, you acknowledge that you have read this
-              Privacy Policy and agree to its terms. If you do not agree with
-              our privacy policies and practices, please do not use our Service.
+              By using ACRODILE, you acknowledge that you have read this Privacy
+              Policy and agree to its terms. If you do not agree with our
+              privacy policies and practices, please do not use our Service.
             </p>
           </div>
         </section>

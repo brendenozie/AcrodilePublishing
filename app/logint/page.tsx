@@ -64,7 +64,7 @@ export default function LoginPage() {
         </div>
 
         <p className="text-orange-200 text-sm">
-          © 2026 Giftech LMS. All rights reserved.
+          © 2026 acrodile LMS. All rights reserved.
         </p>
       </div>
 
